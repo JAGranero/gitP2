@@ -1,3 +1,7 @@
 Segundo archivo jagranero
+<<<<<<< HEAD
 
 Agregando nueva linea
+=======
+Edit mariano
+>>>>>>> f399423c52d49f175a51061b729df6f7e9bb43df
